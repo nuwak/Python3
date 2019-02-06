@@ -9,4 +9,6 @@ python3 -m venv env
 source env/bin/activate
 (env) $ deactivate
 which python
+
+virtualenv --python=python3.7 venv
 ```
