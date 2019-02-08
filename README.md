@@ -21,6 +21,7 @@
  * [Курсы на разлинчные темы en](https://www.codingforentrepreneurs.com/)
     * [их github](https://github.com/codingforentrepreneurs)
       * [eCommerce](https://github.com/codingforentrepreneurs/eCommerce)
+ * [Python Django Tutorial: How to enable HTTPS with a free SSL/TLS Certificate using Let's Encrypt](https://www.youtube.com/watch?v=NhidVhNHfeU&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&index=15)
 
 Репозитории:
  * [Мой репозиторий с тестовым проектом](https://github.com/nuwak/Django-2-start-lerning)
