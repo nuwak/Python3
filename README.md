@@ -24,6 +24,11 @@
 
 Репозитории:
  * [Мой репозиторий с тестовым проектом](https://github.com/nuwak/Django-2-start-lerning)
+ 
+Статьи:
+ * [Хватит использовать lambda выражения в Python](https://python-scripts.com/no-lambda)
+ * [Полное руководство по классам данных в Python 3.7](https://python-scripts.com/data-class)
+ * [Jupyter Notebook: An Introduction](https://realpython.com/jupyter-notebook-introduction/)
 
 Снипиты:
  * [virtualenv.md](virtualenv.md)
