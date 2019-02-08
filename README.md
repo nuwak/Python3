@@ -9,4 +9,22 @@
 * [How to Install Python 3.7.2 on Ubuntu](https://tecadmin.net/install-python-3-7-on-ubuntu-linuxmint/)
 
 Блоги:
- * [https://python-scripts.com/](https://python-scripts.com/)
+ * [https://python-scripts.com/](https://python-scripts.com/) ru
+ * [https://realpython.com/](https://realpython.com/) en
+ 
+Документация:
+ * [Django 1.9 ru](https://djbook.ru/rel1.9/contents.html)
+ 
+Уроки:
+ * [Руководство Django (mozilla) ru](https://developer.mozilla.org/ru/docs/Learn/Server-side/Django)
+   * [Репа сайта бибилиотеки](https://github.com/mdn/django-locallibrary-tutorial)
+ * [Курсы на разлинчные темы en](https://www.codingforentrepreneurs.com/)
+    * [их github](https://github.com/codingforentrepreneurs)
+      * [eCommerce](https://github.com/codingforentrepreneurs/eCommerce)
+
+Снипиты:
+ * [virtualenv.md](virtualenv.md)
+ 
+ Задачки:
+  - [ ] Изучить основные возможности админки джанги
+  - [ ] Написать простые тесты
