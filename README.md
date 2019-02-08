@@ -22,6 +22,9 @@
     * [их github](https://github.com/codingforentrepreneurs)
       * [eCommerce](https://github.com/codingforentrepreneurs/eCommerce)
 
+Репозитории:
+ * [Мой репозиторий с тестовым проектом](https://github.com/nuwak/Django-2-start-lerning)
+
 Снипиты:
  * [virtualenv.md](virtualenv.md)
  
