@@ -1,6 +1,6 @@
 
 # Учит Python 3 по снипетам кода
-
+Учит Python 3 по снипетам кода
 Ссылки:
 
 * [Базовые фозможности на тестах](https://github.com/trekhleb/learn-python)
@@ -37,3 +37,30 @@
  Задачки:
   - [ ] Изучить основные возможности админки джанги
   - [ ] Написать простые тесты
+  
+--ENGLISH TRANSLATION--
+
+ 
+# Teaches Python 3 from code snippets
+
+LINKS:
+
+1.Basic features: https://github.com/trekhleb/learn-python
+2.Python environment management with pipenv: https://habr.com/ru/post/413009/
+   2.a Pip3 breaks after pipenv install #2095: https://habr.com/ru/post/413009/
+3.How to Install Python 3.7.2 on Ubuntu: https://github.com/pypa/pipenv/issues/2095
+
+ BLOGS:
+ 
+ 1.https://python-scripts.com/
+ 2.https://realpython.com/
+ 
+ 
+Documentation:
+
+1.Django 1.9 in ru :(https://djbook.ru/rel1.9/contents.html)
+
+LESSONS:
+
+1.Manual Django in ru: https://developer.mozilla.org/ru/docs/Learn/Server-side/Django
+   1.a Repo library site: https://github.com/mdn/django-locallibrary-tutorial
